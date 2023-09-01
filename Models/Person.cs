@@ -1,5 +1,4 @@
-﻿using System;
-namespace Aug31_Ver1_WebAp.Models
+﻿namespace Aug31_Ver1_WebAp.Models
 {
     public class Person
     {
