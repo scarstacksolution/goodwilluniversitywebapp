@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Aug31_Ver1_WebAp.props" />
+</Project>

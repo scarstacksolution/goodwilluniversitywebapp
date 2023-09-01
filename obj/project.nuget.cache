@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aORdB8s5ZWdgWbr1V03K6ud36PjsTOiyL3jRDne3JK5+l0va+rcltzxtfl25esaPvrLeLQvYZ5e2t0FdvjnN/w==",
+  "dgSpecHash": "rWAZV7k+YYPdNjAelBxARZLsOm3TJvk/vwrlA+L6MagseAmQ+LkHf5xZjcVQIEtM0TXU4quTGuFelkkrrXMOhA==",
   "success": true,
-  "projectFilePath": "/Users/olu/Projects/Aug31_Ver1_WebAp/Aug31_Ver1_WebAp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/olu/Projects/Aug31_Version3_WebApp/Aug31_Ver1_WebAp.csproj",
+  "expectedPackageFiles": [
+    "/Users/olu/.nuget/packages/bootstrap/5.3.1/bootstrap.5.3.1.nupkg.sha512",
+    "/Users/olu/.nuget/packages/bootstrap.datepicker/1.8.0.1/bootstrap.datepicker.1.8.0.1.nupkg.sha512",
+    "/Users/olu/.nuget/packages/bootstrap.less/3.4.1/bootstrap.less.3.4.1.nupkg.sha512",
+    "/Users/olu/.nuget/packages/jquery/1.9.1/jquery.1.9.1.nupkg.sha512"
+  ],
   "logs": []
 }

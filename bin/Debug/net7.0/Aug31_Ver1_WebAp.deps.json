@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Aug31_Ver1_WebAp/1.0.0": {
+        "dependencies": {
+          "Bootstrap.Datepicker": "1.8.0.1",
+          "bootstrap.less": "3.4.1",
+          "bootstrap": "5.3.1"
+        },
+        "runtime": {
+          "Aug31_Ver1_WebAp.dll": {}
+        }
+      },
+      "bootstrap/5.3.1": {},
+      "Bootstrap.Datepicker/1.8.0.1": {},
+      "bootstrap.less/3.4.1": {
+        "dependencies": {
+          "jQuery": "1.9.1"
+        }
+      },
+      "jQuery/1.9.1": {}
+    }
+  },
+  "libraries": {
+    "Aug31_Ver1_WebAp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-062nL2TBj4wiPNfZQpkLhQKl2gVPD8MQfbZFfe3YzRZ7h+it9E7doSpmWwDd4RvAH9tsgi4axs8qDYeCiGO8gA==",
+      "path": "bootstrap/5.3.1",
+      "hashPath": "bootstrap.5.3.1.nupkg.sha512"
+    },
+    "Bootstrap.Datepicker/1.8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/pKY2/KjIGQHmK2reK2iowG0Weu6w42VRjBT8vS5AMcsdKMMxQ4NBrvOxWHUpzf0idY+YaKGnjXyWb+Ba+/M3g==",
+      "path": "bootstrap.datepicker/1.8.0.1",
+      "hashPath": "bootstrap.datepicker.1.8.0.1.nupkg.sha512"
+    },
+    "bootstrap.less/3.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G/laxBbHVHq4G7LCbfRLISrJf8wjaMsx7qpEDzAorUr+jbl66xP5Pd7IPmqAIi5u8six7/ETv9M4nU7amvbN7g==",
+      "path": "bootstrap.less/3.4.1",
+      "hashPath": "bootstrap.less.3.4.1.nupkg.sha512"
+    },
+    "jQuery/1.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HiX9icLyiJGgiL5EOIn0d1MBPHVV2M9mzWT4mANdniDNR51RvAFTyKEXEd2+5yQJ4PJ5xePOR61Vjj/omQzYcw==",
+      "path": "jquery/1.9.1",
+      "hashPath": "jquery.1.9.1.nupkg.sha512"
+    }
+  }
+}

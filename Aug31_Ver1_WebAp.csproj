@@ -8,4 +8,9 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.1" />
+    <PackageReference Include="Bootstrap.Datepicker" Version="1.8.0.1" />
+    <PackageReference Include="Bootstrap.Less" Version="3.4.1" />
+  </ItemGroup>
 </Project>

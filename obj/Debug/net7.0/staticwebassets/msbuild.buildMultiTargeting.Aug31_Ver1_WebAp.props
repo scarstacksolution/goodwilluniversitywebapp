@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Aug31_Ver1_WebAp.props" />
+</Project>

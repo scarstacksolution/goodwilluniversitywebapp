@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/olu/Projects/Aug31_Ver1_WebAp/Aug31_Ver1_WebAp.csproj": {}
+    "/Users/olu/Projects/Aug31_Version3_WebApp/Aug31_Ver1_WebAp.csproj": {}
   },
   "projects": {
-    "/Users/olu/Projects/Aug31_Ver1_WebAp/Aug31_Ver1_WebAp.csproj": {
+    "/Users/olu/Projects/Aug31_Version3_WebApp/Aug31_Ver1_WebAp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/olu/Projects/Aug31_Ver1_WebAp/Aug31_Ver1_WebAp.csproj",
+        "projectUniqueName": "/Users/olu/Projects/Aug31_Version3_WebApp/Aug31_Ver1_WebAp.csproj",
         "projectName": "Aug31_Ver1_WebAp",
-        "projectPath": "/Users/olu/Projects/Aug31_Ver1_WebAp/Aug31_Ver1_WebAp.csproj",
+        "projectPath": "/Users/olu/Projects/Aug31_Version3_WebApp/Aug31_Ver1_WebAp.csproj",
         "packagesPath": "/Users/olu/.nuget/packages/",
-        "outputPath": "/Users/olu/Projects/Aug31_Ver1_WebAp/obj/",
+        "outputPath": "/Users/olu/Projects/Aug31_Version3_WebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/olu/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Bootstrap.Datepicker": {
+              "target": "Package",
+              "version": "[1.8.0.1, )"
+            },
+            "Bootstrap.Less": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
