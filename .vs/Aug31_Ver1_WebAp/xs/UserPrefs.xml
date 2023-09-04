@@ -1,4 +1,25 @@
-﻿<Properties StartupConfiguration="{DEF1F22C-F09E-4E2C-9E5C-03FA20ADD71A}|https" GitUserInfo="UsingMD">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{DEF1F22C-F09E-4E2C-9E5C-03FA20ADD71A}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aug31_Ver1_WebAp">
+            <Node name="Aug31_Ver1_WebAp">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Aug31__Ver1__WebAp PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

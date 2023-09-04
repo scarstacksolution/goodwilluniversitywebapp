@@ -1,0 +1,4 @@
+﻿
+// Connect to and query Azure SQL Database using .NET and Entity Framework Core
+
+https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-dotnet-entity-framework-core-quickstart?view=azuresql&tabs=visual-studio%2Cservice-connector%2Cportal
