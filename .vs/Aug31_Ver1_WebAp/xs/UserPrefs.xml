@@ -1,4 +1,5 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{DEF1F22C-F09E-4E2C-9E5C-03FA20ADD71A}|https">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
@@ -22,16 +23,26 @@
       <File FileName="UnitOfWorkPattern/ApplicationDbContext.cs" Line="19" Column="1" />
       <File FileName="Migrations/20230904082356_InitialCreate.cs" Line="1" Column="1" />
       <File FileName="Program.cs" Line="1" Column="1" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+>>>>>>> 4e2e06dc684b47cbdc86b17e0ee70a6f412b5f03
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+<<<<<<< HEAD
           <Node name="Aug31_Ver1_WebAp" expanded="True">
             <Node name="Aug31_Ver1_WebAp" expanded="True">
               <Node name="Controllers" expanded="True">
                 <Node name="HomeController.cs" selected="True" />
               </Node>
               <Node name="UnitOfWorkPattern" expanded="True" />
+=======
+          <Node name="Aug31_Ver1_WebAp">
+            <Node name="Aug31_Ver1_WebAp">
+>>>>>>> 4e2e06dc684b47cbdc86b17e0ee70a6f412b5f03
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
               </Node>
@@ -41,7 +52,17 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+<<<<<<< HEAD
   <MonoDevelop.Ide.ItemProperties.Aug31__Ver1__WebAp PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+=======
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Aug31__Ver1__WebAp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+>>>>>>> 4e2e06dc684b47cbdc86b17e0ee70a6f412b5f03
 </Properties>
