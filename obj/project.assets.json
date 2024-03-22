@@ -10156,25 +10156,25 @@
     ]
   },
   "packageFolders": {
-    "/Users/seandeo/.nuget/packages/": {}
+    "/Users/olu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/seandeo/Projects/Aug31_Version3_WebApp/Aug31_Ver1_WebAp.csproj",
+      "projectUniqueName": "/Users/olu/Projects/scarstack Projects/AzureWebApp_Aug31_V3/Aug31_Ver1_WebAp.csproj",
       "projectName": "Aug31_Ver1_WebAp",
-      "projectPath": "/Users/seandeo/Projects/Aug31_Version3_WebApp/Aug31_Ver1_WebAp.csproj",
-      "packagesPath": "/Users/seandeo/.nuget/packages/",
-      "outputPath": "/Users/seandeo/Projects/Aug31_Version3_WebApp/obj/",
+      "projectPath": "/Users/olu/Projects/scarstack Projects/AzureWebApp_Aug31_V3/Aug31_Ver1_WebAp.csproj",
+      "packagesPath": "/Users/olu/.nuget/packages/",
+      "outputPath": "/Users/olu/Projects/scarstack Projects/AzureWebApp_Aug31_V3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/seandeo/.nuget/NuGet/NuGet.Config"
+        "/Users/olu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10269,7 +10269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
   }

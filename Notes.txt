@@ -1,4 +1,34 @@
 ﻿
 // Connect to and query Azure SQL Database using .NET and Entity Framework Core
 
-https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-dotnet-entity-framework-core-quickstart?view=azuresql&tabs=visual-studio%2Cservice-connector%2Cportal
+- reference: https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-dotnet-entity-framework-core-quickstart?view=azuresql&tabs=visual-studio%2Cservice-connector%2Cportal
+
+
+#NOTES
+# a) "goodwilluniversity-sqldbserver" below represents the sql server name of your Azure sql server
+# b) "goodwilluniversity-database" below represents the database name of your Azure sql database
+# c) "useradmin1" below represents the username to use to login to your Azure sql database which you setup in azure portal
+# d) "Password123$" below represents the password to use to login to your Azure sql database which you setup in azure portal
+
+
+"DefaultConnection": "Server=tcp:goodwilluniversity-sqldbserver.database.windows.net;Initial Catalog=goodwilluniversity-biologystudents;User=useradmin1;Password=Password123$;ConnectRetryCount=0;MultipleActiveResultSets=true; TrustServerCertificate=true"
+
+
+
+#NOTES
+#returns all Students instead of a single student
+
+            var _employees = new List<Person>();
+
+            IEnumerable<Person> employees = (IQueryable<Person>)_context.Person
+
+                .OrderBy(e => e.id)
+                .AsNoTracking()
+                .OrderBy(e => e.id);
+
+            foreach (var employee in employees)
+            {
+                _employees.Add(employee);
+            }
+
+            var data = _employees;
